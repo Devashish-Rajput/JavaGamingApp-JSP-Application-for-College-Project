@@ -1,0 +1,23 @@
+body, html {
+  height: 1912px;
+  margin: 0;
+  width: 100vw;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("x5.jpg");
+
+  /* Full height */
+  height: 1912px; 
+  width: 100vw;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#content{
+padding: 300px 0 0 0px;    
+}
